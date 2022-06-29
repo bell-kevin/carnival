@@ -14,4 +14,4 @@ Requirements
 • The customer class will print directly to the screen only for the method to eat food, to echo the name of the food. 
 • You must not have duplication of code. You can create additional methods to handle processes that occur in multiple places in the code. 
 • You may select your own games, rides, and food, the number of tickets for each, the prizes for the games. Make the prizes distinct, different for every game and level of each game. 
-• You must test every method with both good and bad input, and bad input must generate helpful descriptive messages.  
+• You must test every method with both good and bad input, and bad input must generate helpful descriptive messages
