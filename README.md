@@ -1,5 +1,5 @@
 # carnival
-The final project is a program that simulates a carnival, and lets the user make a journey through that carnival, playing games and gathering prizes, eating carnival food, taking rides. 
+The final project is a program that simulates a carnival, and lets the user make a journey through that carnival, playing games and gathering prizes, eating carnival food, taking rides 
 
 Final Project 
 # Carnival 
